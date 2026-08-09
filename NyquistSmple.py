@@ -2,6 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy import signal
 
+#　コメント追加
+
 # カットオフ角周波数
 wc = 1
 
